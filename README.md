@@ -1,2 +1,2 @@
 # team-hyunse
-first repository of pongso
+first repository of team-hyunse

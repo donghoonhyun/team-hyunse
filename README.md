@@ -14,3 +14,8 @@ first repository of team-hyunse
   - sina.com사이트에서 특정정보의 링크 수집하기
 - 02_read_page.py
   - 특정링크에 해당하는 페이지에서 기사본문 text만 가져오기
+  - 정규식 또는 replace기능을 이용해서 불필요한 text 삭제하기 추가로 구현해야 함
+
+
+#make segmenter
+- Stanford Word Segmenter java library 사용해서 구현 계획

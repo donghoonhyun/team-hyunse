@@ -19,3 +19,4 @@ first repository of team-hyunse
 
 #make segmenter
 - Stanford Word Segmenter java library 사용해서 구현 계획
+  - http://nlp.stanford.edu/
